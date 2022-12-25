@@ -56,4 +56,4 @@ The following files are available for the train and test data. Their description
 - Extract only the measurements on the mean and standard deviation for each measurement
 - Use descriptive activity names to name the activities in the data set
 - Label the data set with descriptive variable names
-- Creates a second, independent tidy data set (`tidy_data`) with the average of each variable for each activity and each subject
+- Creates a second, independent tidy data set (i.e. `tidy_data`) with the average of each variable for each activity and each subject
