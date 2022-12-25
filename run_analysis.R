@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project: run_analysis.R
 
-# 1. Download and prepare the data set
+# 1. Download, unzip, and prepare the data set
 getwd()
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 download.file(url, destfile = "./data.zip", method = "curl")
